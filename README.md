@@ -36,7 +36,7 @@ I like Football vaery much, often i used to play and i will see the live telecas
 
 ### FIFA  World Cup Analysis.ipynb
 
-**All EDA Analysis have been implemented with respect to the Dataset with variuos plots **
+**All EDA Analysis have been implemented with respect to the Dataset with variuos plots**
 
 <br>
 
@@ -50,11 +50,11 @@ I like Football vaery much, often i used to play and i will see the live telecas
 
 # License
 
-![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/GNU%20license.jpg)
+![Alt Text](https://github.com/DheerajKumar97/FIFA-World-Cup-Analysis/blob/master/apache.jpg)
 <br>
 CopyRight 2020 DHEERAJ KUMAR
 
-      https://www.gnu.org/licenses/gpl-3.0.en.html
+      https://www.apache.org/licenses/LICENSE-2.0
       
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 <br>
