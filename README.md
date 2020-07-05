@@ -17,13 +17,13 @@
 
 # PROJECT GOAL
 
- This project is designed to **Create Automated-ML-Application-for-Exploratory-Data-Analysis-Streamlit-Deployment with Python, streamlit, HTML** 
- <br>
- A highly comprehensive analysis with all **data cleaning, exploration, visualization have been in back end with python** and its **intention to create it like a NO CODE PLATFORM**
+ This project is based on **FIFA World Cup Analysis** to get insights about the Matches, patterns about players, Patterns about cup holders, Home Groud Advantage and many more things** 
+<br>
+The data here i used is taken from kaggle and the data is from since 1930 to 2014, with 3 excel files separated by players ,matches and cup holders
 
 # Project Motivation
 
-**I have been practicing Machine Learning for Past 6 Months, For implementing Regression, Classification and NLP models EXPLORATORY DATA ANALYSIS is must to understand the data. But it will take more time to Write code and to finish EDA, Its TIME CONSUMING, so it motivated me to create a NO CODE WEB APP for EDA**
+I like Football vaery much, often i used to play and i will see the live telecasted football matches without missing them, so to practice PYTHON and Data Analysis, i have choosen this FIFA World Cup Dataset
 
 # Requirements Installation
 
@@ -31,21 +31,22 @@
 
     pip install -r requirements.txt
 <br>
+
 # File Section
 
-### Main.py
+### FIFA  World Cup Analysis.ipynb
 
-**It consists of User Defing Functions To automate The Application**
-<br>
-
-**All EDA Analysis have been implemented in back end**
+**All EDA Analysis have been implemented with respect to the Dataset with variuos plots **
 
 <br>
 
-# Technologies Used
+# Libraries Used
 
-![Alt Text](https://github.com/DheerajKumar97/IPL-Score-Prediction-with-Flask-Deployment-Heroku/blob/master/static/p1.jpg)
-![Alt Text](https://github.com/DheerajKumar97/Automated-ML-Application-for-Exploratory-Data-Analysis-Streamlit-Deployment/blob/master/STREAMLIT.jpg)
+![Alt Text](https://github.com/DheerajKumar97/FIFA-World-Cup-Analysis/blob/master/hqdefault.jpg)
+![Alt Text](https://github.com/DheerajKumar97/FIFA-World-Cup-Analysis/blob/master/plotlytutsplus.png)
+![Alt Text](https://github.com/DheerajKumar97/FIFA-World-Cup-Analysis/blob/master/wordcloud.jpeg)
+![Alt Text](https://github.com/DheerajKumar97/FIFA-World-Cup-Analysis/blob/master/matplotlib.png)
+![Alt Text](https://github.com/DheerajKumar97/FIFA-World-Cup-Analysis/blob/master/seaborn.png)
 
 # License
 
@@ -59,4 +60,4 @@ Unless required by applicable law or agreed to in writing, software distributed 
 <br>
 
 # Credits
-<a href="https://pycaret.org/">PYCARET</a>
+<a href="https://github.com/sharmaroshan/FIFA-2019-Analysis">Sharma Roshan</a>
