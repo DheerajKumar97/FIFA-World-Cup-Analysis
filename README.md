@@ -1,7 +1,9 @@
 ![Alt Text](https://github.com/DheerajKumar97/FIFA-World-Cup-Analysis/blob/master/coverr.jpg)
 <br>
+
 # FIFA World Cup Analysis
 <br>
+
 # Table Of Contents
 - [PROJECT GOAL](#PROJECT-GOAL)
 - [Project Motivation](#Project-Motivation)
@@ -10,7 +12,9 @@
 - [Plots Used](#Technologies-Used)
 - [License](#License)
 - [Credits](#Credits)
+
 <br>
+
 # PROJECT GOAL
 
  This project is designed to **Create Automated-ML-Application-for-Exploratory-Data-Analysis-Streamlit-Deployment with Python, streamlit, HTML** 
